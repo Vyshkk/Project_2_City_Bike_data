@@ -5,8 +5,6 @@ This lets users rent cycles for short trips and return them at the destination s
 exploratory analysis on bike share data to gain some insights on bike traffic, average trip duration, user types, user characteristics.
 
 
-### Results:
-
  ##### 1. Most popular months in terms of number of rides are June, July, August, September and October
  ##### 2. Some of busiest hours during a week are Wednesdays and Thursdays between 5pm and 7pm
  ##### 3. Busiest days in a week are Wednesdays and Thursdays
